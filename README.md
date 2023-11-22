@@ -10,7 +10,6 @@ Methodology:
   Project Mindset:
     As this is a very short project, the motto will be K.I.S.S - Keep It Simple Stupid, basic functionality will be achieved before introducing extra (optional) complexity. 
     This will facilitate reinforcement learning of what is known and will build on that with wherever the team has interest to explore. 
-    
     Complexity can be introduced in almost all stages, and will be flexible for team members to discuss and explore their interests.
 
   Model Development:
